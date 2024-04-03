@@ -9,6 +9,10 @@ This repository hosts a terminal-based adaptation of the renowned game 2048, cod
 - Your recent move and current score are displayed during gameplay.
 - Instructions on gameplay is provided on-screen.
 
+## Screenshots
+![Welcome](screenshots/welcome.png)
+![Game](screenshots/game.png)
+
 ## Build Instructions
 
 ### Prerequisites
